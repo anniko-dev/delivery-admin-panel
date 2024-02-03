@@ -1,0 +1,12 @@
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+.ymaps-2-1-79-map {
+  filter: grayscale(1);
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
